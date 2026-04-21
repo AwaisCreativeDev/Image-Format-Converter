@@ -1,6 +1,6 @@
 # Live At:
 
-<a href="https://awaiscreativedev.github.io/Image-Format-Converter/" target="_blank">Image Format Converter</a>
+<a href="https://awaiscreativedev.github.io/Image-Format-Converter/" target="_blank">Image-Format-Converter</a>
 
 # Libraries Used:
 
